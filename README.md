@@ -36,6 +36,13 @@ This repository contains the SQL solutions to the Data Analytics SQL Proficiency
 
 ![Assessment_Q4](https://github.com/user-attachments/assets/f429920c-ca83-4ce4-8345-b505a3cd4b22)
 
+
+## ⚠️ Challenges
+- Ensured robust division using `NULLIF()` to avoid divide-by-zero
+- Amounts were stored in **kobo**, so conversion to **naira** was crucial
+
+
+
 ## 🚀 About Me
 I am a statistics instructor turned research and data analyst. I've developed keen interest in analytical thinking, data analysis, and report writing during my university days and I'm passionately using data and insight to shape innovation. I have also engaged in extracurricular involvements which have shaped me into a proactive and collaborative team player.
 
